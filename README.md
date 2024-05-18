@@ -6,19 +6,18 @@ This project is a React TypeScript application that integrates with the REST Cou
 The live version of the project - https://typescript-countries-app.netlify.app/
 
 ## Features
-- **Job Cards:** Each job listing is displayed as a card containing the following information:
-  - Display all countries from the API on the homepage
-  - Search for a country using an input field
-  - Filter countries by region
-  - View detailed information about a country on a separate page
-  - Navigate through border countries on the detail page
-  - Responsive design for different device screen sizes
-  - Hover and focus states for all interactive elements
-  - Toggle between light and dark mode
-  - Theme persistence using local storage
-  - Modular and testable code following best practices
-  - Cool animations using Framer Motion
-  - Proper error handling
+- Display all countries from the API on the homepage
+- Search for a country using an input field
+- Filter countries by region
+- View detailed information about a country on a separate page
+- Navigate through border countries on the detail page
+- Responsive design for different device screen sizes
+- Hover and focus states for all interactive elements
+- Toggle between light and dark mode
+- Theme persistence using local storage
+- Modular and testable code following best practices
+- Cool animations using Framer Motion
+- Proper error handling
 
 ## Technology Stack
 - ReactJs
