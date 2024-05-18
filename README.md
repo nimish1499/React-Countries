@@ -3,7 +3,7 @@
 This project is a React TypeScript application that integrates with the REST Countries API to display country data. It includes functionalities for searching, filtering, and viewing detailed information about countries, as well as switching between light and dark modes. The application is responsive, features animations using Framer Motion, and maintains theme persistence using local storage.
 
 ## Deployment Link
-The live version of the project - 
+The live version of the project - https://typescript-countries-app.netlify.app/
 
 ## Features
 - **Job Cards:** Each job listing is displayed as a card containing the following information:
